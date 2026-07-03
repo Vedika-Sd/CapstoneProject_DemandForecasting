@@ -1,0 +1,11 @@
+fastapi
+uvicorn
+pandas
+numpy
+xgboost
+statsmodels
+prophet
+joblib
+pydantic
+pydantic-settings
+python-multipart
